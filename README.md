@@ -2,7 +2,7 @@
 <h1 align="center">Hi,I'm Rana Nayek</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence & Mechine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
